@@ -1,0 +1,21 @@
+i 7 Seiska
+i 123 Luku
+i 7 Saatana
+i 1 kissa
+p
+m m m m m m m m m m 
+i --0 asd
+r
+r
+r
+r
+r
+r
+p
+i 2 kkk
+i 1 23asd
+i 444 a00a
+p
+s
+m
+p

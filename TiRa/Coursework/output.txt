@@ -1,0 +1,17 @@
+(7,Seiska) lis.
+(123,Luku) lis.
+Avain 7 on jo jonossa.
+(1,kissa) lis.
+Virheellinen syöte.
+Virheellinen syöte.
+(1,kissa) poistettu.
+(7,Seiska) poistettu.
+(123,Luku) poistettu.
+Jono on tyhjä.
+Jono on tyhjä.
+Jono on tyhjä.
+(2,kkk) lis.
+(1,23asd) lis.
+(444,a00a) lis.
+3
+Pienin alkio on (1,23asd)
